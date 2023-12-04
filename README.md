@@ -3,8 +3,10 @@ Homeassistant integration for rpi pico somfy blinds. To use, clone this entire r
 
 ## Configuration
 To use this plugin, define each cover as follows in `configuration.yaml`:
+```yaml
   cover:
     - platform: somfy_receiver_ha
       host: 192.168.178.15
       name: terasse
       scan_interval: 15
+```
