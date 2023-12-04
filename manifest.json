@@ -1,0 +1,12 @@
+{
+  "domain": "somfy_shutterbox",
+  "name": "Somfy Shutterbox",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/rpi_pico_somfy_shutterbox",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": []
+}
